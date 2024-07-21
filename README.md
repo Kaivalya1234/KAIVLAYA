@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm KAIVALYA KAMMELLA !!</h1>
-<h3 align="center">Ex intern @ Amethyst Online Consultants || Machine Learning  || Tech Enthusiast  || Data Analyst  || Competitive Programmer || CS Undergrad</h3>
+<h3 align="center">Research Intern@ MIC Labs,DST-SERB ,Govt.of India || Ex intern @ Amethyst Online Consultants || Machine Learning  || Tech Enthusiast  || Data Analyst  || Competitive Programmer || CS Undergrad</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
